@@ -40,41 +40,41 @@ flutter:
     - assets/card/
     - assets/icon/
 
-fonts:
-  - family: Merriweather
-    fonts:
-      - asset: assets/fonts/merriweather/Merriweather-Regular.ttf
-      - asset: assets/fonts/merriweather/Merriweather-Italic.ttf
-        style: italic
-      - asset: assets/fonts/merriweather/Merriweather-Light.ttf
-        weight: 300
-      - asset: assets/fonts/merriweather/Merriweather-LightItalic.ttf
-        weight: 300
-        style: italic
-      - asset: assets/fonts/merriweather/Merriweather-Bold.ttf
-        weight: 700
-      - asset: assets/fonts/merriweather/Merriweather-BoldItalic.ttf
-        weight: 700
-        style: italic
-      - asset: assets/fonts/merriweather/Merriweather-Black.ttf
-        weight: 900
-      - asset: assets/fonts/merriweather/Merriweather-BlackItalic.ttf
-        weight: 900
-        style: italic
-  - family: Playfair
-    fonts:
-      - asset: assets/fonts/playfair/PlayfairDisplay-Regular.ttf
-      - asset: assets/fonts/playfair/PlayfairDisplay-Italic.ttf
-        style: italic
-      - asset: assets/fonts/playfair/PlayfairDisplay-Bold.ttf
-        weight: 700
-      - asset: assets/fonts/playfair/PlayfairDisplay-BoldItalic.ttf
-        weight: 700
-        style: italic
-      - asset: assets/fonts/playfair/PlayfairDisplay-Black.ttf
-        weight: 900
-      - asset: assets/fonts/playfair/PlayfairDisplay-BlackItalic.ttf
-        weight: 900
-        style: italic
+  fonts:
+    - family: Merriweather
+      fonts:
+        - asset: assets/fonts/merriweather/Merriweather-Regular.ttf
+        - asset: assets/fonts/merriweather/Merriweather-Italic.ttf
+          style: italic
+        - asset: assets/fonts/merriweather/Merriweather-Light.ttf
+          weight: 300
+        - asset: assets/fonts/merriweather/Merriweather-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/merriweather/Merriweather-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/merriweather/Merriweather-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/merriweather/Merriweather-Black.ttf
+          weight: 900
+        - asset: assets/fonts/merriweather/Merriweather-BlackItalic.ttf
+          weight: 900
+          style: italic
+    - family: Playfair
+      fonts:
+        - asset: assets/fonts/playfair/PlayfairDisplay-Regular.ttf
+        - asset: assets/fonts/playfair/PlayfairDisplay-Italic.ttf
+          style: italic
+        - asset: assets/fonts/playfair/PlayfairDisplay-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/playfair/PlayfairDisplay-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/playfair/PlayfairDisplay-Black.ttf
+          weight: 900
+        - asset: assets/fonts/playfair/PlayfairDisplay-BlackItalic.ttf
+          weight: 900
+          style: italic
 
 scripts: derry.yaml
